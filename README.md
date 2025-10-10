@@ -1,3 +1,11 @@
+<!-- Visitor Counter (Top Right Corner) -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=adarshukla3005&label=Visitors&color=0e75b6&style=flat" alt="visitor badge"/>
+</p>
+
+<!-- Header Section -->
+<h1 align="center">Hey, I'm Adarsh Shukla</h1>
+
 # 💫 About Me:
 GenAI Enthusiast exploring new Technologies!!
 
