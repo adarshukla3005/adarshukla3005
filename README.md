@@ -31,9 +31,27 @@ A Passionate GenAI Developer exploring new Technologies!!
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adarshukla3005&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=adarshukla3005&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshukla3005&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+
+  <!-- First row: two images side by side -->
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=adarshukla3005&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false" width="420"/>
+      </td>
+      <td>
+        <img src="https://nirzak-streak-stats.vercel.app/?user=adarshukla3005&theme=gruvbox&hide_border=false" width="460"/>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- Second row: single image -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshukla3005&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="380"/>
+
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adarshukla3005&theme=radical&no-frame=false&no-bg=false&margin-w=4)
