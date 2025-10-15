@@ -18,7 +18,7 @@ A Passionate GenAI Developer exploring new Technologies!!
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=About.me&logoColor=white)](https://adarshukla.netlify.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/adarsh_shukla30)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adarsh-shukla30)
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/AdarshSh30)
+[![Twitter](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/AdarshSh30)
 [![LeetCode](https://img.shields.io/badge/Leetcode-000100?logo=Leetcode&logoColor=random)](https://leetcode.com/u/godzilla30/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adarshukla3005@gmail.com)
 
